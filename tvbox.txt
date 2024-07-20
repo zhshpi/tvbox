@@ -8,6 +8,11 @@
             "url": "http://www.饭太硬.com/tv/",
             "name": "🚀3-饭太硬推荐"
         },
+        {
+            "url": "
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/tv.txt",
+            "name": "🚀3-lanjing_live"
+        },
 	    {
             "url": "http://xhww.fun/小米/DEMO.json",
             "name": "🚀4-小米"
