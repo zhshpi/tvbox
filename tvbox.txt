@@ -1,6 +1,6 @@
 {
     "urls": [
-		{
+	{
             "url": "http://肥猫.live",
             "name": "🚀2-肥猫"
         },
@@ -8,7 +8,7 @@
             "url": "http://www.饭太硬.com/tv/",
             "name": "🚀3-饭太硬推荐"
         },
-		{
+	{
             "url": "http://ceshi.肥猫.com/PandaQ",
             "name": "🚀肥猫备用"
         },
@@ -20,7 +20,7 @@
             "url": "https://www.饭太硬.com/tv/",
             "name": "🚀3-饭太硬https"
         },
-	    {
+	{
             "url": "https://mpanso.me/DEMO.json",
             "name": "🚀4-小米"
         },
