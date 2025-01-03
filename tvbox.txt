@@ -12,6 +12,10 @@
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Cyril0563/lanjing_live/main/TVbox_Free/tv.txt",
             "name": "🚀3-蓝鲸直播源"
         },
+        {
+            "url": "https://www.饭太硬.com/tv/",
+            "name": "🚀3-饭太硬https"
+        },
 	    {
             "url": "https://mpanso.me/DEMO.json",
             "name": "🚀4-小米"
@@ -53,8 +57,8 @@
             "name": "🚀17-D佬魔改"
         },
         {
-            "url": "https://szyyds.cn/tv/x.json",
-            "name": "🚀18-小马线路"
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀18-南风线路"
         },
         {
             "url": "https://tv.lan2wan.top/candymuj.json",
