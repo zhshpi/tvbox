@@ -13,7 +13,7 @@
             "name": "🚀3-蓝鲸直播源"
         },
 	    {
-            "url": "http://xhww.fun/小米/DEMO.json",
+            "url": "https://mpanso.me/DEMO.json",
             "name": "🚀4-小米"
         },
         {
